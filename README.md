@@ -50,7 +50,7 @@ Screenshots
 > *(Add your Tableau dashboard screenshots here)*
 > Recommended: Overview page, Genre breakdown, Global map, Timeline view
 Or view live on Tableau Public:
-> 🔗 [View Interactive Dashboard](https://public.tableau.com) ← *(Replace with your published link)*
+> 🔗 [View Interactive Dashboard]:https://public.tableau.com/app/profile/marykutty.dcruz7171/viz/Netflixdashboard_17703256166090/Netflix
 ---
 How to Explore This Project
 Option A — Tableau Public (recommended)
