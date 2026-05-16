@@ -46,10 +46,6 @@ Top 5 genres represent over 50% of total titles — the platform is concentrated
 The US produces the most content by far, but India and the UK are the next largest contributors — reflecting Netflix's global expansion strategy
 Content additions peaked around 2019 and show a notable dip post-2020, likely reflecting COVID-era production delays
 ---
-Screenshots
-> *(Add your Tableau dashboard screenshots here)*
-> Recommended: Overview page, Genre breakdown, Global map, Timeline view
-Or view live on Tableau Public:
 > 🔗 [View Interactive Dashboard]:https://public.tableau.com/app/profile/marykutty.dcruz7171/viz/Netflixdashboard_17703256166090/Netflix
 ---
 How to Explore This Project
